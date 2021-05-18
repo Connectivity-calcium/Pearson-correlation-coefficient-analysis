@@ -1,5 +1,5 @@
 %% Example script for calcium imaging analysis
-% Created by Theo Stylianides 22/1/18
+% Created by Theo Stylianides and Eleni Georgiadou 22/1/18
 % Note that this script will not work unless you address the following required
 % inputs:
 % DataLocation
